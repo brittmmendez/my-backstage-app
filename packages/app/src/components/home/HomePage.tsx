@@ -10,7 +10,6 @@ import { Content, Page, InfoCard } from '@backstage/core-components';
 import { HomePageSearchBar, SearchContextProvider } from '@backstage/plugin-search';
 import React from 'react';
 import { QuickLinks } from './QuickLinks'
-import { QuickLinks1 } from './QuickLinksOption1'
 import { QuickLinks2 } from './QuickLinksOption2'
 import { Grid, makeStyles } from '@material-ui/core';
 

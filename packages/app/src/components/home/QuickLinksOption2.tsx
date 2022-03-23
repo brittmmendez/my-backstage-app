@@ -27,7 +27,7 @@ const linkBackground = {
   color: 'white',
   cursor: 'pointer',
   display: 'inline-block',
-  background: "linear-gradient(50deg, #1B99D6 45%, #e65300 40%)",
+  background: "linear-gradient(50deg, #1B99D6 43%, #e65300 40%)",
 }
 
 
