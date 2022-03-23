@@ -64,6 +64,10 @@
     "cy:dev": "cypress open",
     "cy:run": "cypress run"
   },
+  "resolutions": {
+    "**/parse-url": "5.0.0",
+    "**/git-up": "4.0.2"
+  },
   "browserslist": {
     "production": [
       ">0.2%",

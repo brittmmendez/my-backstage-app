@@ -37,6 +37,10 @@
     "prettier": "^2.3.2",
     "typescript": "~4.5.4"
   },
+  "resolutions": {
+    "**/parse-url": "5.0.0",
+    "**/git-up": "4.0.2"
+  },
   "prettier": "@spotify/prettier-config",
   "lint-staged": {
     "*.{js,jsx,ts,tsx,mjs,cjs}": [
