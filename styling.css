@@ -1,0 +1,89 @@
+/* Deisgn System */
+:root {
+    --navy-1: #1A2C65;
+    --navy: #253E8E;
+    --white: #ffffff;
+    --orange: #F15D31;
+    --blue: #1B99D6;
+    --warm-gray: #CCCCC4;
+    --dark-gray: #53575A;
+    --middle-gray: #97989B;
+    --light-grey: #7cbb38;
+    --text: #313335;
+  }
+
+h1 {
+    color: var(--navy);
+    font-family: 'Montserrat';
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+}
+h2 {
+    color: var(--navy);
+    font-family: 'Montserrat';
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 63px;
+    letter-spacing: 0em;
+}
+
+h3 {
+    color: var(--navy);
+    font-family: 'Montserrat';
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+}
+/* h4 {}
+h5 {}
+h6 {} */
+p {
+    color: var(--text);
+    font-family: 'Montserrat';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+}
+
+a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24.012px;
+    line-height: 36px;
+    text-decoration-line: underline;
+    color: var(--text);
+}
+/* a:hover {}
+a:active {} */
+
+
+
+/* .btn
+{
+    border: 0;
+    color: white;
+    cursor: pointer;
+    padding: 4px;
+    display: inline-block;
+    background: linear-gradient(50deg, #1B99D6 45%, #e65300 40%);
+}
+.bg
+{
+    background: #1A2C65;
+    padding: 17px 14px;
+    font: bold 24px Consolas;
+}
+.btn:hover .bg
+{
+    background: #fff;
+    color: #1A2C65;
+} */
